@@ -1,0 +1,1 @@
+rundll32 printui.dll,PrintUIEntry /if /b "HP DeskJet 970Cxi" /f %windir%\inf\ntprint.inf /r "lpt1:" /m "HP DeskJet 970Cxi"
